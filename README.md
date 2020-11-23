@@ -25,7 +25,7 @@ Total number of records in the dataset
 
 Ratio of customers with annual subscriptions versus short term users.  
 
-<img src="./resources\TripsByCustomerType.PNG" alt="TripsByCustomerType" style="zoom: 33%;" />
+<img src=".\resources\TripsByCustomerType.PNG" alt="TripsByCustomerType" style="zoom: 33%;" />
 
 * Demonstrates that that over 75% of the bike usage recorded in the database was by annual subscribers.
 
@@ -35,7 +35,7 @@ Ratio of customers with annual subscriptions versus short term users.
 
 Filtered heatmap to compare and contrast the relationships between Gender, Customer Type and frequency of usage on a weekday basis.
 
-![TripsByGender](./resources\TripsByGender.PNG)
+<img src=".\resources\TripsByGender.PNG" alt="TripsByGender" style="zoom:33%;" />
 
 * Shows that the highest frequency of use is on Thursdays by Male Annual Subscribers.
 
@@ -45,7 +45,7 @@ Filtered heatmap to compare and contrast the relationships between Gender, Custo
 
 Filtered heatmap to compare and contrast the relationships between Gender, Weekday and frequency of usage an hourly basis.
 
-![TripsByGender_WeekdayHourHeatmap](./resources\TripsByGender_WeekdayHourHeatmap.PNG)
+<img src=".\resources\TripsByGender_WeekdayHourHeatmap.PNG" alt="TripsByGender_WeekdayHourHeatmap" style="zoom:25%;" />
 
 * Shows the busiest hours of usage are between 8 and 9 am and between 5 and 7 pm.  The users during this time period are typically Males.
 
@@ -55,7 +55,7 @@ Filtered heatmap to compare and contrast the relationships between Gender, Weekd
 
 Chart to show the relationship between gender and the amount of time a user keeps a bike checked out.
 
-![CheckoutTimesByGender](./resources\CheckoutTimesByGender.PNG)
+<img src=".\resources\CheckoutTimesByGender.PNG" alt="CheckoutTimesByGender" style="zoom:25%;" />
 
 * Shows that typically males keep the bike for around 5 hours and females keep the bike around 6 hours.
 
@@ -65,7 +65,7 @@ Chart to show the relationship between gender and the amount of time a user keep
 
 Chart to show the relationship of all customers to the amount of time a bike is checked out.
 
-![CheckoutTimesByAllUsers](./resources\CheckoutTimesByAllUsers.PNG)
+<img src=".\resources\CheckoutTimesByAllUsers.PNG" alt="CheckoutTimesByAllUsers" style="zoom: 25%;" />
 
 * Shows that overall the typical check out duration for all customers is around 5 hours.
 
@@ -75,7 +75,7 @@ Chart to show the relationship of all customers to the amount of time a bike is 
 
 Heatmap to show the busiest time of day for each weekday based on all customers.
 
-![TipsByWeekdayEachHour](./resources\TipsByWeekdayEachHour.PNG)
+<img src=".\resources\TipsByWeekdayEachHour.PNG" alt="TipsByWeekdayEachHour" style="zoom: 33%;" />
 
 * Shows the busiest hours of usage are between 8 and 9 am on Thursdays and between 5 and 7 pm on Monday, Tuesday and Thursday.
 
