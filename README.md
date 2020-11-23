@@ -4,7 +4,7 @@
 
 * The purpose of this report is present different views of actual NYC Citibike usage data to potential investors.
 
-* Each of the views are shown in using Tableau visualizations.  To see the story book ctrl or cmd click the following link:  [LINK TO DASHBOARD](https://public.tableau.com/profile/phillip3638#!/vizhome/NYCCitibikeanalysis/StoryNYCCitibikeAnalysis?publish=yes)
+* Each of the views are shown in using Tableau visualizations.  To see the story book click the following link:  [LINK TO DASHBOARD](https://public.tableau.com/profile/phillip3638#!/vizhome/NYCCitibikeanalysis/StoryNYCCitibikeAnalysis?publish=yes)
 
   
 #### Results:
