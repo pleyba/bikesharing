@@ -15,7 +15,7 @@ The following screenshots are from the Tableau storybook mentioned above.
 
 Total number of records in the dataset
 
-<img src="C:\Users\leyba\OneDrive\Desktop\dataViz\Assignments\bikesharing\resources\Total Number of Trips.PNG" alt="Total Number of Trips" style="zoom: 33%;" />
+<img src=".\resources\Total Number of Trips.PNG" alt="Total Number of Trips" style="zoom: 33%;" />
 
 * These records represent all bike usage during the month of August in 2019.
 
